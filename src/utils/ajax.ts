@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { Indicator, Toast } from 'mint-ui';
+import { Indicator, Toast  from 'mint-ui';
 import { baseUrl } from '@/config/env';
 import store from 'store';
 import qs from 'qs';
